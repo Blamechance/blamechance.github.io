@@ -1,5 +1,5 @@
 title = "Blamechance Notes"
-baseURL = "https://blamechance.github.io/portfolio"
+baseURL = "https://blamechance.github.io"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
