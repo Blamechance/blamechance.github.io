@@ -10,7 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-canonifyURL = true
+#canonifyURL = true
 
 [languages]
   [languages.en]
