@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, World! on Tommy Cao</title>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
+    <description>Recent content in Hello, World! on Tommy Cao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post!</title>
+      <link>https://gohugo-theme-ananke.pages.dev/blog/15062022/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/blog/15062022/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
+    </item>
+    
+    <item>
+      <title>CS50: Introduction to Computer Science </title>
+      <link>https://gohugo-theme-ananke.pages.dev/projects/cs50x2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/projects/cs50x2022/</guid>
+      <description>Week 0: Complete.
+Week 1: Complete.
+Week 2: In Progress.</description>
+    </item>
+    
+    <item>
+      <title>AWS Certificate: Certified Cloud Practitioner Certification</title>
+      <link>https://gohugo-theme-ananke.pages.dev/projects/awsccp/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/projects/awsccp/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://gohugo-theme-ananke.pages.dev/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/about-me/</guid>
+      <description>Hello, World from atop Mt. Kosciuszko! [To be updated]</description>
+    </item>
+    
+    <item>
+      <title>Socials</title>
+      <link>https://gohugo-theme-ananke.pages.dev/socials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/socials/</guid>
+      <description>Feel free to connect with or reach out to me.
+Platform URL LinkedIn: https://www.linkedin.com/in/tommy-cao-78aa06198/ Github: https://github.com/Blamechance E-mail: vtommycao@gmail.com </description>
+    </item>
+    
+  </channel>
+</rss>
