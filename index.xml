@@ -8,16 +8,34 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>test1</title>
+      <link>/blog/17062022/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/17062022/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>/blog/test-2/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/test-2/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
+    </item>
+    
+    <item>
       <title>First Blog Post!</title>
       <link>/blog/15062022/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/15062022/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
     </item>
     
     <item>
-      <title>CS50: Introduction to Computer Science </title>
+      <title>CS50x: Introduction to Computer Science </title>
       <link>/projects/cs50x2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
