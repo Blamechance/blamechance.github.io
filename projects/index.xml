@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Tommy Cao</title>
-    <link>https://blamechance.github.io/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Tommy Cao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blamechance.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS50: Introduction to Computer Science </title>
-      <link>https://blamechance.github.io/projects/cs50x2022/</link>
+      <link>/projects/cs50x2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blamechance.github.io/projects/cs50x2022/</guid>
+      <guid>/projects/cs50x2022/</guid>
       <description>Week 0: Complete.
 Week 1: Complete.
 Week 2: In Progress.</description>
@@ -20,10 +20,10 @@ Week 2: In Progress.</description>
     
     <item>
       <title>AWS Certificate: Certified Cloud Practitioner Certification</title>
-      <link>https://blamechance.github.io/projects/awsccp/</link>
+      <link>/projects/awsccp/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://blamechance.github.io/projects/awsccp/</guid>
+      <guid>/projects/awsccp/</guid>
       <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
     </item>
     
