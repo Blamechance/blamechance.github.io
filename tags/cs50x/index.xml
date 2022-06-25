@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Tommy Cao</title>
-    <link>/blog/</link>
-    <description>Recent content in Blog on Tommy Cao</description>
+    <title>CS50x on Tommy Cao</title>
+    <link>/tags/cs50x/</link>
+    <description>Recent content in CS50x on Tommy Cao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cs50x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS50x - Week 1 Review</title>
       <link>/blog/cs50-week1/</link>
@@ -27,13 +27,13 @@ I found the CS50x course in my pursuit for a litmus test for my affinity to the 
     </item>
     
     <item>
-      <title>First Blog Post!</title>
-      <link>/blog/15062022/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <title>CS50x: Introduction to Computer Science </title>
+      <link>/projects/cs50/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/15062022/</guid>
-      <description>Not super sure what I have planned for this website &amp;ndash; but I figure it&amp;rsquo;s better to do, experiment, and start defining things later when I develop better experience and opinions.
-For now, it&amp;rsquo;s a learning blog and portfolio website!</description>
+      <guid>/projects/cs50/</guid>
+      <description>Currently in progress.
+Keep up with my learning blogs by pressing the tag below!</description>
     </item>
     
   </channel>

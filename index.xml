@@ -8,21 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test1</title>
-      <link>/blog/17062022/</link>
+      <title>CS50x - Week 1 Review</title>
+      <link>/blog/cs50-week1/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/17062022/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
+      <guid>/blog/cs50-week1/</guid>
+      <description>[To be updated]</description>
     </item>
     
     <item>
-      <title>test2</title>
-      <link>/blog/test-2/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <title>CS50x - Week 0 Review</title>
+      <link>/blog/cs50-week0/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/blog/test-2/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
+      <guid>/blog/cs50-week0/</guid>
+      <description>As I am still taking my first formative steps in my IT career, I find myself constantly curious on the different technologies and disciplines available. Consistently, there seems to be a single skill that is universally valued for it&amp;rsquo;s meaningful utility — programming.
+I found the CS50x course in my pursuit for a litmus test for my affinity to the discipline, and as there seems to be a universal agreement on the quality of the course, I figured it perfectly suitable.</description>
     </item>
     
     <item>
@@ -31,18 +32,18 @@
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/15062022/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago</description>
+      <description>Not super sure what I have planned for this website &amp;ndash; but I figure it&amp;rsquo;s better to do, experiment, and start defining things later when I develop better experience and opinions.
+For now, it&amp;rsquo;s a learning blog and portfolio website!</description>
     </item>
     
     <item>
       <title>CS50x: Introduction to Computer Science </title>
-      <link>/projects/cs50x2022/</link>
+      <link>/projects/cs50/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/projects/cs50x2022/</guid>
-      <description>Week 0: Complete.
-Week 1: Complete.
-Week 2: In Progress.</description>
+      <guid>/projects/cs50/</guid>
+      <description>Currently in progress.
+Keep up with my learning blogs by pressing the tag below!</description>
     </item>
     
     <item>
