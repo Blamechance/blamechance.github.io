@@ -6,7 +6,16 @@
     <description>Recent content in CS50x on Tommy Cao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cs50x/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cs50x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS50x - Week 2 Review</title>
+      <link>/blog/cs50-week2/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/cs50-week2/</guid>
+      <description>[To be updated]</description>
+    </item>
+    
     <item>
       <title>CS50x - Week 1 Review</title>
       <link>/blog/cs50-week1/</link>
@@ -22,8 +31,8 @@
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/cs50-week0/</guid>
-      <description>As I am still taking my first formative steps in my IT career, I find myself constantly curious on the different technologies and disciplines available. Consistently, there seems to be a single skill that is universally valued for it&amp;rsquo;s meaningful utility — programming.
-I found the CS50x course in my pursuit for a litmus test for my affinity to the discipline, and as there seems to be a universal agreement on the quality of the course, I figured it perfectly suitable.</description>
+      <description>As I am still taking my first formative steps in my IT career, I find myself constantly curious on everything there is out there to learn. Consistently, there seems to be a single skill that is universally valued for it&amp;rsquo;s meaningful utility — programming.
+I found the CS50x course while looking for a course that would provide an effective foundation, and since there seems to be a universal agreement on the quality of this course, I figured it perfectly suitable.</description>
     </item>
     
     <item>
