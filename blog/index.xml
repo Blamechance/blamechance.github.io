@@ -6,29 +6,43 @@
     <description>Recent content in Blog on Tommy Cao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS50x - Week 3 Review</title>
+      <link>/blog/cs50-week0-copy/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/cs50-week0-copy/</guid>
+      <description>CS50 Week 3 Status: In progress.</description>
+    </item>
+    
     <item>
       <title>CS50x - Week 2 Review</title>
       <link>/blog/cs50-week2/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/cs50-week2/</guid>
-      <description>[To be updated]</description>
+      <description>CS50 Week 2 Status: Done.
+Lecture: This week, the lecture explored how code is compiled by process of how compilers preprocess, compile, assemble and link the code to create executable programs.
+Other things I learned include:
+An introduction to visualising memory, variables and arrays. Rubber duck debugging. Array initialisation/referencing and parallels with char data type. The arguments argc + argv and how they can be used within programs, contrasting those with so far that had argument void.</description>
     </item>
     
     <item>
       <title>CS50x - Week 1 Review</title>
       <link>/blog/cs50-week1/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/cs50-week1/</guid>
-      <description>[To be updated]</description>
+      <description>CS50 Week 1 Status: Done
+Lecture: The week’s lecture touched on the concept of good practices, as well as expanding on logic introduced with the code-blocks, with their respective C language implementations.
+I had knowledge of concepts such as data types, variables and use of the CLI but chose to not skip through any of the content — part of the reason I wanted to do an introductory course was so I could clear any misunderstandings I might hold, in generally start with a fresh perspective anyway.</description>
     </item>
     
     <item>
       <title>CS50x - Week 0 Review</title>
       <link>/blog/cs50-week0/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/cs50-week0/</guid>
       <description>As I am still taking my first formative steps in my IT career, I find myself constantly curious on everything there is out there to learn. Consistently, there seems to be a single skill that is universally valued for it&amp;rsquo;s meaningful utility — programming.
@@ -38,7 +52,7 @@ I found the CS50x course while looking for a course that would provide an effect
     <item>
       <title>First Blog Post!</title>
       <link>/blog/15062022/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/blog/15062022/</guid>
       <description>Not super sure what I have planned for this website &amp;ndash; but I figure it&amp;rsquo;s better to do, experiment, and start defining things later when I develop better experience and opinions.

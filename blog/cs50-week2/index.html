@@ -39,7 +39,7 @@
 <meta itemprop="name" content="CS50x - Week 2 Review">
 <meta itemprop="description" content="Arrays and Arguments."><meta itemprop="datePublished" content="2022-06-20T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2022-06-20T00:00:00+00:00" />
-<meta itemprop="wordCount" content="3">
+<meta itemprop="wordCount" content="483">
 <meta itemprop="keywords" content="CS50x," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="CS50x - Week 2 Review"/>
 <meta name="twitter:description" content="Arrays and Arguments."/>
@@ -166,7 +166,42 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><em>[To be updated]</em></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h1 id="cs50-week-2">CS50 Week 2</h1>
+<p><strong>Status</strong>: Done.</p>
+<h2 id="lecture">Lecture:</h2>
+<p>This week, the lecture explored how code is compiled by process of how compilers preprocess, compile, assemble and link the code to create executable programs.</p>
+<p>Other things I learned include:</p>
+<ul>
+<li>An introduction to visualising memory, variables and arrays.</li>
+<li>Rubber duck debugging.</li>
+<li>Array initialisation/referencing and parallels with <code>char</code> data type.</li>
+<li>The arguments <code>argc</code> + <code>argv</code> and how they can be used within programs, contrasting those with so far that had argument <code>void</code>.</li>
+</ul>
+<hr>
+<h2 id="problem-setslabs">Problem Sets/Labs:</h2>
+<h3 id="scrabble">Scrabble:</h3>
+<p>This problem involved computing the scrabble score of two words, and printing out the winner.</p>
+<p>Skeleton code was provided with this problem, and since it mostly only required ASCII manipulation with <code>greater/less than</code> arithmetic, it was familiar and therefore fairly easy.</p>
+<p>Finished it in mostly a single attempt without needing significant debugging.</p>
+<p><img src="/images/cs50scrabble.gif" alt="cs50scrabble.gif"></p>
+<h3 id="readability">Readability:</h3>
+<p>This problem involved implementing a reading difficulty text for provided sentences, by applying the <em>Coleman-Liau index (</em><code>index = 0.0588 * L - 0.296 * S - 15.8</code>).</p>
+<p>I found this fairly easy to tackle with the use of <code>strlen()</code> and <code>isalpha()</code> &ndash;  was finished with it in just over an hour. It was a great exercise for being familiar with custom functions, as once the operations were broken into separate user defined functions, <code>main</code> ended up being only a couple handful of lines.</p>
+<p><img src="/images/cs50readability.gif" alt="cs50readability.gif"></p>
+<h3 id="substitution">Substitution:</h3>
+<p>I decided to opt for the more difficult problem this week again, since it seemed a challenging but within my ability.</p>
+<p>The problem was to code a program that would take a 26 letter argument, to represent an encryption key. <code>Plaintext</code> would then be provided by the user, with the program applying the new alphabet order per the argument to find the encrypted new character representation — this operation of encrypting each character based on the key would iterate through each letter, with the result being output as <code>ciphertext.</code></p>
+<p>I found this challenging but learned a lot through the process of working on it, including:</p>
+<ul>
+<li><code>argv</code> as an array of <em>pointers</em> towards strings, and the functional nuances between referencing pointers and absolute values.</li>
+<li>Better understanding on <code>break</code>, <code>exit</code> and <code>return</code> operations.</li>
+<li>Experimenting with parallels in <code>strings</code> and <code>char</code> datatypes, and using their itnerchangable nature to creatively solve problems.</li>
+<li>Practice in breaking down operations into efficient custom functions, and keeping code cohesive, while not getting lost in the loops while debugging.</li>
+</ul>
+<p>This one was a bit of grind at times, and took a couple sessions for me to work out — once or twice needing me to walk away to come back to it with a fresh perspective.</p>
+<p>I ended up nesting more functionality than I would have liked in a single <code>if statement</code>path within main (for if it fulfilled argument validity requirements), and so it reminded me the importance of clean code, and the value in refactoring…</p>
+<p>Won’t dwell on it too much as I’ve learned lessons from this problem, but maybe I’ll revisit in future!</p>
+<p><img src="/images/cs50substitution.gif" alt="cs50substitution.gif"></p>
 <ul class="pa0">
   
    <li class="list di">

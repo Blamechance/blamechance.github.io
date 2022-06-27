@@ -33,13 +33,13 @@
 <meta property="og:description" content="Loops, if statements and an introduction to &#39;C&#39;" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/blog/cs50-week1/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2022-06-15T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-06-15T00:00:00+00:00" /><meta property="og:site_name" content="Tommy Cao" />
+<meta property="article:published_time" content="2022-06-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-06-12T00:00:00+00:00" /><meta property="og:site_name" content="Tommy Cao" />
 
 <meta itemprop="name" content="CS50x - Week 1 Review">
-<meta itemprop="description" content="Loops, if statements and an introduction to &#39;C&#39;"><meta itemprop="datePublished" content="2022-06-15T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2022-06-15T00:00:00+00:00" />
-<meta itemprop="wordCount" content="3">
+<meta itemprop="description" content="Loops, if statements and an introduction to &#39;C&#39;"><meta itemprop="datePublished" content="2022-06-12T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-06-12T00:00:00+00:00" />
+<meta itemprop="wordCount" content="399">
 <meta itemprop="keywords" content="CS50x," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="CS50x - Week 1 Review"/>
 <meta name="twitter:description" content="Loops, if statements and an introduction to &#39;C&#39;"/>
@@ -160,13 +160,30 @@
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2022-06-15T00:00:00Z">June 15, 2022</time>
+      <time class="f6 mv4 dib tracked" datetime="2022-06-12T00:00:00Z">June 12, 2022</time>
       
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><em>[To be updated]</em></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h1 id="cs50-week-1">CS50 Week 1</h1>
+<p>Status: Done</p>
+<h2 id="lecture">Lecture:</h2>
+<p>The week’s lecture touched on the concept of <em>good practices</em>, as well as expanding on logic introduced with the code-blocks, with their respective C language implementations.</p>
+<p>I had knowledge of concepts such as data types, variables and use of the CLI but chose to not skip through any of the content — part of the reason I wanted to do an introductory course was so I could clear any misunderstandings I might hold, in generally start with a fresh perspective anyway.</p>
+<h2 id="problem-sets">Problem Sets:</h2>
+<p>I decided to do both the more difficult of the pair of problem sets despite being a beginner, since I probably stand to learn more as long as it’s within my ability to push through it.</p>
+<h3 id="mario-more-comfortable">Mario (more comfortable):</h3>
+<p>This was a nice first exercise as it really only involved basic <code>print strings</code>, ASCII characters and <code>arithmetic.</code> This allowed me to wrap my head around <code>for loops</code> properly and get comfortable with the language/interface.</p>
+<p>My final solution involved nesting the for loops that printed the hashes, within a for loop responsible for iterating until <code>rowsBuilt</code> matched the height provided by the user.</p>
+<p><img src="/images/cs50mario.gif" alt="cs50mario.gif"></p>
+<h3 id="credit-more-comfortable">Credit (more comfortable)</h3>
+<p>The problem here was to write code that implemented Luhn’s algorithm to check for credit card number validity. When reading the problem, my mind <em>instantly</em> went to thinking about how <code>strlen</code> could be utilised. Seeing as the lecture content had not yet explored the topic of arrays, I decided to try and find another way.</p>
+<p>I’m glad I did, as the solution I realised (which would have been incredibly less rewarding if I had simply googled the alterante names for Luhn’s algorithm), was to use the <code>modulus</code> operation. Ultimately simple, it was a small eureka moment for me as I never previously connectd with the utility of the modulus operator.</p>
+<p>I did implement custom functions here to keep the code clean and readable, despite it not being introduced as a concept yet — but that seemed more like a quality of life element that wouldn’t have served much purpose to avoid.</p>
+<p>A few hours of debugging due to buggy loops and number truncation, and voila!</p>
+<p><img src="/images/cs50credit.gif" alt="cs50credit.gif"></p>
+<p>Overall, I’m very impressed with the quality of the lectures, and although the problem sets make small leaps past what is demonstrated in the lectures, I’m finding this an effective teaching tool that encourages taking initiative in the learning process.</p>
 <ul class="pa0">
   
    <li class="list di">
